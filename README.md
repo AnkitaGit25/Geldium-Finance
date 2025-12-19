@@ -1,2 +1,2 @@
 # Geldium-Finance
-AI-based financial analysis and automation built with Python and Java.
+# AI-driven finance automation platform for expense classification, analysis, and insights.
